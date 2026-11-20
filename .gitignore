@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit secrets (Do not commit sensitive keys!)
+.streamlit/secrets.toml
+
+# Operating System files
+.DS_Store
+Thumbs.db
